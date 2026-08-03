@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on **Vidrush.ai** *(AI-powered video platform)*
 - 👯 I'm looking to collaborate on **innovation**
 - 🤝 I'm looking for help with [BDHunt](https://bdhunt.pro.bd)
-- 🎌 Learning Japanese *こんにちは*
+- 📦 Learning Japanese *Three.js*
 - 📍 Located in Mymensingh, Bangladesh
 
 ---
